@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Devs2Blu.ProjetosAula.OOP3.Main.Cadastros
 {
-    public class CadastroFornecedor : IMenuCadastro
+    public class CadastroRecepcionista: : IMenuCadastro
     {
-
     }
 }

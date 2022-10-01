@@ -9,7 +9,9 @@ namespace Devs2Blu.ProjetosAula.OOP3.Main.Interface
 {
     public interface IMenuCadastro
     {
-
+        // Aplicação de polimorfismo por meio
+        // de
+        // interfaces para reaproveitamento
         Int32 MenuCadastro();
         void Listar( );
         void Cadastrar( );

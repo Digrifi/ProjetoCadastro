@@ -46,6 +46,7 @@
     <Compile Include="Cadastros\CadastroFornecedor.cs" />
     <Compile Include="Cadastros\CadastroMedico.cs" />
     <Compile Include="Cadastros\CadastroPaciente.cs" />
+    <Compile Include="Cadastros\CadastroRecepcionista.cs" />
     <Compile Include="Interface\IMenuCadastro.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

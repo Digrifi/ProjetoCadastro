@@ -17,6 +17,7 @@ namespace Devs2Blu.ProjetosAula.OOP3.Main.Utils
         
         public Mocks()
         {
+
             ListaPacientes = new List<Paciente>();
             ListaMedicos = new List<Medico>();
             ListaRecepcionistas = new List<Recepcionista>();

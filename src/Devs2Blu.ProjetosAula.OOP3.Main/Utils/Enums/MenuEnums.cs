@@ -8,14 +8,14 @@ namespace Devs2Blu.ProjetosAula.OOP3.Main.Utils
 {
     public enum MenuEnums
     {   
-        //Menu Geral
+        //Menu Acesso
         SAIR = 0,
         LISTAR = 1,
         CADASTRAR = 2,
         ALTERAR = 3,
         EXCLUIR = 4,
 
-        //Menu Principal
+        //Menu Cadastramento
         CAD_PAC = 10,
         CAD_MED = 20,
         CAD_REC = 30,
