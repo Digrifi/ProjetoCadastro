@@ -21,7 +21,7 @@ namespace Devs2Blu.ProjetosAula.OOP3.Main.Cadastros
         {
             
             {
-                Int32 opcao;
+                Int32 opcao = 0;
                 Console.WriteLine("--- Cadastro Pacientes ---");
                 Console.WriteLine("--- 1 Lista de Pacientes ---");
                 Console.WriteLine("--- 2 Cadastro de Pacientes ---");
@@ -72,6 +72,7 @@ namespace Devs2Blu.ProjetosAula.OOP3.Main.Cadastros
                 Console.WriteLine("------------------------------------");
             }
         }
+
         private void CadastrarPaciente(Paciente pessoa)
         {
 
