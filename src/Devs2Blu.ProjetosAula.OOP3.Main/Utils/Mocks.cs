@@ -67,7 +67,7 @@ namespace Devs2Blu.ProjetosAula.OOP3.Main.Utils
             String[] tipofornecedor = { "Alimentício", "Medicinal", "Caridade", "Material" };
             for (int i = 0; i < 10; i++)
             {
-                Fornecedor fornecedor = new Fornecedor(i, $"Recepcionista{i}", $"{i + rd.Next(0, 5)}40{i + rd.Next(0, 5)}60{i + rd.Next(0, 5)}90{i + rd.Next(0, 5)}20", tipofornecedor[rd.Next(0, 3)]);
+                Fornecedor fornecedor = new Fornecedor(i, $"Fornecedor{i}", $"{i + rd.Next(0, 5)}40{i + rd.Next(0, 5)}60{i + rd.Next(0, 5)}90{i + rd.Next(0, 5)}20", tipofornecedor[rd.Next(0, 3)]);
                 ListaFornecedores.Add(fornecedor);
             }
 

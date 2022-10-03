@@ -24,7 +24,7 @@ namespace Devs2Blu.ProjetosAula.OOP3.Main
 
                 if (opcaoMenuCadastro.Equals((int)MenuEnums.SAIR))
                 {
-
+                    
                     Console.WriteLine("--- Sistema de Gerenciamento de Clínicas ---");
                     Console.WriteLine("--- 10 Cadastro de Pacientes ---");
                     Console.WriteLine("--- 20 Cadastro de Médicos ---");
@@ -35,8 +35,11 @@ namespace Devs2Blu.ProjetosAula.OOP3.Main
                     Console.WriteLine("--- 70 Financeiro ---");
                     Console.WriteLine("----------------------------");
                     Console.WriteLine("--- 0 Sair ---");
+                    Console.Write("Escolha:");
                     Int32.TryParse(Console.ReadLine(), out opcao);
 
+                    Console.Clear();
+                   
                 }
 
                 switch (opcao)
@@ -49,6 +52,14 @@ namespace Devs2Blu.ProjetosAula.OOP3.Main
                     case (int)MenuEnums.CAD_MED:
                         menuCadastros = new CadastroMedico(); 
                         opcaoMenuCadastro= menuCadastros.MenuCadastro();
+                        break;
+                    case (int)MenuEnums.CAD_REC:
+                        menuCadastros = new CadastroRecepcionista();
+                        opcaoMenuCadastro = menuCadastros.MenuCadastro();
+                        break;
+                    case (int)MenuEnums.CAD_FOR:
+                        menuCadastros = new CadastroFornecedor();
+                        opcaoMenuCadastro = menuCadastros.MenuCadastro();
                         break;
 
                     default:

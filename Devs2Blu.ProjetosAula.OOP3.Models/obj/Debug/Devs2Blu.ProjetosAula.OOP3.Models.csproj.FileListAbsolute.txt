@@ -4,3 +4,9 @@ C:\devs2blu\SlnRevisaoOOP\Devs2Blu.ProjetosAula.OOP3.Models\obj\Debug\Devs2Blu.P
 C:\devs2blu\SlnRevisaoOOP\Devs2Blu.ProjetosAula.OOP3.Models\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Models.csproj.CoreCompileInputs.cache
 C:\devs2blu\SlnRevisaoOOP\Devs2Blu.ProjetosAula.OOP3.Models\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Models.dll
 C:\devs2blu\SlnRevisaoOOP\Devs2Blu.ProjetosAula.OOP3.Models\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Models.pdb
+C:\Users\Bernardo\Desktop\Cadastro Clínico\SlnRevisaoOOP\Devs2Blu.ProjetosAula.OOP3.Models\bin\Debug\Devs2Blu.ProjetosAula.OOP3.Models.dll
+C:\Users\Bernardo\Desktop\Cadastro Clínico\SlnRevisaoOOP\Devs2Blu.ProjetosAula.OOP3.Models\bin\Debug\Devs2Blu.ProjetosAula.OOP3.Models.pdb
+C:\Users\Bernardo\Desktop\Cadastro Clínico\SlnRevisaoOOP\Devs2Blu.ProjetosAula.OOP3.Models\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Models.csproj.AssemblyReference.cache
+C:\Users\Bernardo\Desktop\Cadastro Clínico\SlnRevisaoOOP\Devs2Blu.ProjetosAula.OOP3.Models\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Models.csproj.CoreCompileInputs.cache
+C:\Users\Bernardo\Desktop\Cadastro Clínico\SlnRevisaoOOP\Devs2Blu.ProjetosAula.OOP3.Models\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Models.dll
+C:\Users\Bernardo\Desktop\Cadastro Clínico\SlnRevisaoOOP\Devs2Blu.ProjetosAula.OOP3.Models\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Models.pdb

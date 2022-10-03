@@ -9,3 +9,14 @@ C:\devs2blu\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\bin\Debug\Devs2Blu
 C:\devs2blu\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Main.csproj.CopyComplete
 C:\devs2blu\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Main.exe
 C:\devs2blu\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Main.pdb
+C:\Users\Bernardo\Desktop\Cadastro Clínico\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Main.csproj.AssemblyReference.cache
+C:\Users\Bernardo\Desktop\Cadastro Clínico\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Main.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bernardo\Desktop\Cadastro Clínico\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Main.csproj.CoreCompileInputs.cache
+C:\Users\Bernardo\Desktop\Cadastro Clínico\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Main.exe
+C:\Users\Bernardo\Desktop\Cadastro Clínico\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Main.pdb
+C:\Users\Bernardo\Desktop\Cadastro Clínico\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\bin\Debug\Devs2Blu.ProjetosAula.OOP3.Main.exe.config
+C:\Users\Bernardo\Desktop\Cadastro Clínico\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\bin\Debug\Devs2Blu.ProjetosAula.OOP3.Main.exe
+C:\Users\Bernardo\Desktop\Cadastro Clínico\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\bin\Debug\Devs2Blu.ProjetosAula.OOP3.Main.pdb
+C:\Users\Bernardo\Desktop\Cadastro Clínico\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\bin\Debug\Devs2Blu.ProjetosAula.OOP3.Models.dll
+C:\Users\Bernardo\Desktop\Cadastro Clínico\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\bin\Debug\Devs2Blu.ProjetosAula.OOP3.Models.pdb
+C:\Users\Bernardo\Desktop\Cadastro Clínico\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Main.csproj.CopyComplete
