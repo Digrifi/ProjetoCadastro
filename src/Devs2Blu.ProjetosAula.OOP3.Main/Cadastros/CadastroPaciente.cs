@@ -20,23 +20,23 @@ namespace Devs2Blu.ProjetosAula.OOP3.Main.Cadastros
         public Int32 MenuCadastro()
         {
 
-            {
-                
-                Int32 opcao = 0;
-                Console.WriteLine("--- Cadastro Pacientes ---");
-                Console.WriteLine("--- 1 Lista de Pacientes ---");
-                Console.WriteLine("--- 2 Cadastro de Pacientes ---");
-                Console.WriteLine("--- 3 Alterar Pacientes ---");
-                Console.WriteLine("--- 4 Excluir Pacientes ---");
-                Console.WriteLine("----------------------------");
-                Console.WriteLine("--- 0 Sair ---");
 
-                Console.Write("Escolha:");
-                Int32.TryParse(Console.ReadLine(), out opcao);
 
-                Console.Clear();
-                return opcao;
-            }
+            Int32 opcao = 0;
+            Console.WriteLine("--- Cadastro Pacientes ---");
+            Console.WriteLine("--- 1 Lista de Pacientes ---");
+            Console.WriteLine("--- 2 Cadastro de Pacientes ---");
+            Console.WriteLine("--- 3 Alterar Pacientes ---");
+            Console.WriteLine("--- 4 Excluir Pacientes ---");
+            Console.WriteLine("----------------------------");
+            Console.WriteLine("--- 0 Sair ---");
+
+            Console.Write("Escolha:");
+            Int32.TryParse(Console.ReadLine(), out opcao);
+
+            Console.Clear();
+            return opcao;
+
 
         }
 
@@ -113,12 +113,12 @@ namespace Devs2Blu.ProjetosAula.OOP3.Main.Cadastros
         }
 
         public void Excluir()
-        { 
+        {
             Console.Clear();
             Paciente paciente = new Paciente();
             int codPaciente;
 
-            
+
             ListarPacienteByCodeAndName();
             Console.WriteLine("Informe o Paciente que Deseja Excluir:\n");
             Int32.TryParse(Console.ReadLine(), out codPaciente);
@@ -150,7 +150,7 @@ namespace Devs2Blu.ProjetosAula.OOP3.Main.Cadastros
         }
         private void AlterarPaciente(Paciente paciente)
         {
-            
+
         }
         private void ExcluirPaciente(Paciente paciente)
         {
